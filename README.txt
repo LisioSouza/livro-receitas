@@ -7,5 +7,4 @@ Olá, benvindo ao meu livro de receitas!
 
 2 - Receita de Salada.
 
-3 - Receita de Pavê
 
